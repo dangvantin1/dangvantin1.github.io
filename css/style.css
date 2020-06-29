@@ -1,0 +1,184 @@
+
+body{
+	background:#e7dfd5;
+}
+#nen{
+	width: 800px;
+/*	height: 3000px;*/
+	background: #FFFFFF;
+	margin: 0 auto;
+	border: 10px solid #FFFFFF;
+}
+.header{
+	width: 800px;
+	height: 150px;
+	background: #3b6978;
+	margin: 0 auto;
+}
+.header div{
+	float:left;
+	width: 600px;
+	height: 65px;
+	background: #D8ECF1;
+	margin-left: 50px;
+	margin-top: 45px;
+}
+.header h1{
+	float: left;
+	padding-top: 40px;
+	padding-left: 50px;
+	font-family: aclonica Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif"; 
+}
+.header h2{
+	text-align: center;
+	margin-top: 20px;
+	font-family: aclonica Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif"; 
+}
+*{
+	margin: 0;
+	padding: 0;
+}
+.introduce{
+	width: 800px;
+	height: 200px;
+	background: #84a9ac;
+	margin-top: 10px;
+	text-align: center;
+}
+.menu{
+	width: 800px;
+	height: 500px;
+	background: #84a9ac;
+	margin-top: 10px;
+	text-align: center;
+	
+}
+.about{
+	width: 800px;
+	height: 350px;
+	background: #84a9ac;
+	margin-top: 10px;
+}
+.newsletter{
+	width: 800px;
+	height: 150px;
+	background: #84a9ac;
+	margin-top: 10px;
+	padding-top: 50px
+}
+.extras{
+	width: 800px;
+	height: 250px;
+	background: #84a9ac;
+	margin-top: 10px;
+}
+.footer{
+	width: 800px;
+	height: 200px;
+	background: #3b6978;
+	margin-top: 10px;
+}
+.box{
+	width: 150px;
+	height: 150px;
+	background:#D8ECF1;
+	display: inline-block;
+	margin: 0 auto;
+	margin-top: 50px;
+}
+.menu h1{
+	padding-top: 130px;
+	font-family: aclonica Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif"; 
+}
+.box1{
+	width: 150px;
+	height: 150px;
+	background:#D8ECF1;
+	float: left;
+	margin-left: 240px;
+	margin-top: 105px
+}
+.about h1{
+	padding-top: 140px;
+	margin-left: 20px;
+	float: left;
+	font-family: aclonica Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif"; 
+}
+.about p{
+	padding-top: 180px;
+    margin-left:410px;
+	font-style: italic;
+	font-family: aclonica Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+}
+.newsletter h1{
+	text-align: center;
+	padding-top: 20px;
+	font-family: aclonica Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif"; 
+}
+.newsletter p{
+	text-align: center;
+	font-style: italic;
+	font-family: aclonica Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+}
+.newsletter div{
+	width: 600px;
+	height: 100px;
+	background: #D8ECF1;
+	margin: 0 auto;
+}
+.extras h1{
+	text-align: center;
+	padding-top: 65px;
+	font-family: aclonica Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif"; 
+	
+}
+.extras p{
+	text-align: center;
+	margin-top: 10px;
+	font-style: italic;
+	font-family: aclonica Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+}
+.left{
+	width: 275px;
+	height: 60px;
+	background: #D8ECF1;
+	float: left;
+	margin-left: 50px;
+	margin-top: 75px;
+}
+.left h3 {
+	text-align: center;
+	padding-top: 20px;
+	font-family: aclonica Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif"; 
+}
+.footer h1{
+	float: left;
+	margin-left: 50px;
+	margin-top: 70px;
+}
+.right{
+	width: 275px;
+	height: 60px;
+	background: #D8ECF1;
+	float: left;
+	margin-left: 50px;
+	margin-top: 75px;
+	
+}
+.right h3{
+	text-align: center;
+	padding-top: 20px;
+	font-family: aclonica Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif"; 
+	
+}
+.introduce h1{
+	padding-top: 65px;
+	font-family: aclonica Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif"; 
+}
+.introduce p{
+	font-style: italic;
+	font-family: aclonica Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+}
+.footer h1{
+	font-family: aclonica Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif"; 
+}
